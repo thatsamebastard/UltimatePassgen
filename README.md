@@ -17,10 +17,15 @@
 # INSTALLATION
 **Linux** :penguin:
 
-```
+```bash
 $ chmod +x install.sh
 $ ./install.sh
 $ passgen
+```
+**Windows** :shit:
+```cmd
+> install.bat
+> passgen
 ```
 <br><br><br>
 :trollface:
