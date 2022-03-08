@@ -1,4 +1,5 @@
-# <span style="color:red">**ULTIMATE**</span> PASSWORD GENERATOR
+<h1><span style="color:red;"><b>ULTIMATE</b></span> PASSWORD GENERATOR</h1>
+
 ![](https://img.shields.io/chrome-web-store/price/ogffaloegjglncjfehdfplabnoondfjo?label=Price)
 ![](https://img.shields.io/tokei/lines/github/thatsamebastard/UltimatePassgen?label=Total%20Lines&color=informational)
 ![](https://img.shields.io/badge/CROSSPLATFORM-000?style=badge&logo=c%2B%2B&logoColor=white&)
