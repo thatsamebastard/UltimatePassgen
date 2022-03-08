@@ -1,2 +1,2 @@
 #!/bin/sh
-g++ main.cpp passgen.cpp passgen.h -o ~/.local/bin/passgen
+g++ ./linux/main.cpp ./linux/passgen.cpp ./linux/passgen.h -o ~/.local/bin/passgen
