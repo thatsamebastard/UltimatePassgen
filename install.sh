@@ -1,2 +1,3 @@
 #!/bin/sh
-g++ ./linux/main.cpp ./linux/passgen.cpp ./linux/passgen.h -o ~/.local/bin/passgen
+sudo apt-get install clang
+g++ ./src/main.cpp ./src/passgen.cpp ./src/passgen.h -o ~/.local/bin/passgen
